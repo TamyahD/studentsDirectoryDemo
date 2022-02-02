@@ -1,6 +1,4 @@
-// Tamyah Downes
-// Assignment: Survey Tool
-// ITN263-4C1
+
 import 'react-native-gesture-handler'
 import React, { useState } from 'react';
 import * as Font from 'expo-font'
